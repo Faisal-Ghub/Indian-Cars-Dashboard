@@ -48,10 +48,6 @@ This project demonstrates how raw automotive data can be transformed into an int
 
 The project highlights your Excel skills and ability to convert real-world datasets into insightful dashboards — a valuable skill in data analysis and reporting.
 
-## 📊 Excel Dashboard Preview
-
-![Dashboard Screenshot](Screenshot/Dashboard.png)
-
 
 ## 📬 Connect
 
