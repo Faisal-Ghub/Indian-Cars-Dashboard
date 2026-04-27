@@ -11,7 +11,7 @@ An Excel Dashboard built using the Indian Cars Dataset from Kaggle.
   - Mileage, Torque, Power, Seating Capacity
   - Dimensions (Length, Width, Height)
   - Kerb Weight, Gross Vehicle Weight (GVW)
-  - Drivetrain, Engine Capacity, Cylinders, Valves
+  - Drivetrain, Engine Capacity, Cylinders, Valves.
 
 ## 📊 Project Description
 
